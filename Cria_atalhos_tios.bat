@@ -71,7 +71,7 @@ for /f "tokens=*" %%G in ('dir /b /ad "C:\Users"') do (
 
 echo.
 echo ====================================================================
-echo                 Processo concluido com sucesso!
+echo                   Processo concluido com sucesso!
 echo ====================================================================
 echo.
 pause
